@@ -1,6 +1,6 @@
 # Parking Lot System
 
-A mini python project in which I tried to create praking lot system with features like park car, leave, get car no by color etc
+Python project in which we can create praking lot system with features like park car, leave, get car no by color etc
 
 ## Table of contents
 
