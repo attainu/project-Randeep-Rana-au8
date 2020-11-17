@@ -64,5 +64,5 @@ Note:- please make sure you follow the commands properly
 ## Output
 
 <p align="center">
-  <img src="output.PNG" alt="Parking lot system">
+  <img src="project-output.PNG" alt="Parking lot system">
 </p>
