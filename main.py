@@ -62,7 +62,7 @@ class CarParking:
         print()
     
 
-choice_input = input("If you want to run code from file type 1 and if you want to run code from cmd type 2 => ")
+choice_input = input("if you want to run code from cmd type 1 and If you want to run code from file type 2 => ")
 if choice_input == "1":
     first_input = input().split()
     # input2 = int(sys.argv[2])
